@@ -1,4 +1,4 @@
-# <div align="center">Olá, eu sou Filipi Moraes 👋</div>
+# <div align="center">Olá, eu sou Vinicius Moreira 👋</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=B91C1C&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Full+Stack+Developer;Java+%2B+Spring+Boot+%7C+React+%2B+Next.js;Arquitetura+de+Software+%7C+UX%2FUI+Design;Automa%C3%A7%C3%A3o+Industrial+%7C+Integra%C3%A7%C3%B5es+%7C+IA" alt="Typing SVG" />
