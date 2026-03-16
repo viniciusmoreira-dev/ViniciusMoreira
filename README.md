@@ -35,10 +35,13 @@ Atuo no desenvolvimento de aplicações modernas, APIs robustas, interfaces intu
 
 ## Destaques profissionais
 
-```txt
 ✔ Engenharia de Software
 ✔ Arquitetura de Sistemas
 ✔ Desenvolvimento Full Stack
 ✔ Microsserviços e APIs
 ✔ UX/UI Design Systems
 ✔ Automação Industrial e Integrações
+
+Tech Stack
+Linguagens
+<div align="center"> <img align="center" alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img align="center" alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> <img align="center" alt="TypeScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /> <img align="center" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> <img align="center" alt="C++" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> </div>
